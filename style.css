@@ -1,0 +1,13 @@
+header h1 {
+    text-align: center;
+}
+
+header img {
+    height: 200px;
+}
+
+header{
+    display: grid;
+    place-items: center;
+    background-color: rgba(255, 50, 50, 0.591);
+}
