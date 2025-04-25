@@ -1,17 +1,14 @@
-<<<<<<< HEAD
+
 footer {
     background-color: black;
     color: aqua;
 }
-=======
-<<<<<<< HEAD
 body {
     background: url('https://th.bing.com/th/id/R.2449892ecd260335b3f7530eb2178ffe?rik=Gn8MbFIkr0sMYA&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fchinese-dragon-transparent-background%2fchinese-dragon-transparent-background-2.png&ehk=Lzz75hOPslydWURnri5Pw4e42y7tXj%2fCjbSMwfJJFUM%3d&risl=&pid=ImgRaw&r=0') no-repeat center top, linear-gradient(to bottom, gold, red);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 100%;
     margin: 0;
 }
-=======
 header h1 {
     text-align: center;
 }
@@ -23,7 +20,5 @@ header img {
 header{
     display: grid;
     place-items: center;
-    background-color: rgba(255, 50, 50, 0.591);
+   /* background-color: rgba(255, 50, 50, 0.591); */
 }
->>>>>>> origin/colaborador-juamba
->>>>>>> Master
